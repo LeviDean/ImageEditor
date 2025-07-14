@@ -255,11 +255,4 @@ streamlit run webui.py           # Terminal 2: Develop WebUI
 python launcher.py both           # Single command for everything
 ```
 
-## System Requirements
-
-- **Python 3.8+**
-- **8GB+ RAM** (16GB+ recommended)
-- **CUDA GPU** (optional but recommended for speed)
-- **10GB+ disk space** for model files
-
 This architecture provides fast, reliable AI image editing with a simple setup process!
