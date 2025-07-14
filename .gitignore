@@ -1,3 +1,38 @@
+# Model weights
+models/
+
+# Generated images and outputs
+*.png
+*.jpg
+*.jpeg
+*.webp
+!example.png  # Keep example images
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Application specific
+tmp/
+temp/
+.tmp/
+cache/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
